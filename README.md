@@ -8,13 +8,13 @@
 ## 📸 Screenshot Aplikasi
 
 ### 🏠 Halaman Home
-<image src "(assets/screenshoot/profil1.png)">
+<img src "(assets/images/screenshoot/profil1.png)">
 
 ### 📊 Halaman pendidikan
-<image src "(assets/screenshoot/pendidikan.png)">
+<img src "(assets/images/screenshoot/pendidikan.png)">
 
 ### 🛒 Halaman test my skill
-<image src "(assets/screenshoot/projek.png)">
+<ime src "(assets/images/screenshoot/projek.png)">
 
 # Welcome to your Expo app 👋
 
