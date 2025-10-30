@@ -1,3 +1,21 @@
+# 📱 Aplikasi Data Diri
+**Nama:** Labibul Muhsin  
+**NIM:** [623c0008]  
+**Mata Kuliah:** Pemrograman Mobile 2  
+**Dosen Pengampu:** [mohammad firdaus]
+
+--
+## 📸 Screenshot Aplikasi
+
+### 🏠 Halaman Home
+![HomeScreen](./assets/screenshoot/profil1.png)
+
+### 📊 Halaman pendidikan
+![PendidikanScreen](./assets/screenshoot/pendidikan.png)
+
+### 🛒 Halaman test my skill
+![Projekcreen](./assets/screenshoot/projek.png)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
