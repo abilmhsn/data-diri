@@ -16,7 +16,7 @@ export default function HomeScreen() {
     email: "muhsinlabibul.com",
     phone: "0812-3456-7890",
     location: "Kota Cirebon, Indonesia",
-    bio: "Saya adalah mahasiswa yang passionate dalam pengembangan aplikasi mobile dan web. Suka belajar teknologi baru dan menyelesaikan tantangan pemrograman.",
+    bio: "Saya adalah mahasiswa teknik informatika s1 saat ini saya sedang mendalami pemograman pyhton.",
     social: {
       github: "https://github.com/abilmhsn",
       linkedin: "https://linkedin.com/in/username",

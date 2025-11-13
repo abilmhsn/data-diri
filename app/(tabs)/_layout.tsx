@@ -2,9 +2,10 @@ import { Tabs } from 'expo-router';
 import React from 'react';
 
 import { HapticTab } from '@/components/haptic-tab';
-import { IconSymbol } from '@/components/ui/icon-symbol';
+
 import { Colors } from '@/constants/theme';
 import { useColorScheme } from '@/hooks/use-color-scheme';
+import { Feather } from '@expo/vector-icons';
 
 export default function TabLayout() {
   const colorScheme = useColorScheme();
@@ -29,7 +30,7 @@ export default function TabLayout() {
         options={{
           title: 'Profil',
           tabBarIcon: ({ color }) => (
-            <IconSymbol size={28} name="person.fill" color={color} />
+            <Feather size={28} name="user" color={color} />
           ),
         }}
       />
@@ -38,7 +39,16 @@ export default function TabLayout() {
         options={{
           title: 'Portfolio',
           tabBarIcon: ({ color }) => (
-            <IconSymbol size={28} name="folder.fill" color={color} />
+            <Feather size={28} name="archive" color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="settings"
+        options={{
+          title: 'Pengaturan',
+          tabBarIcon: ({ color }) => (
+            <Feather name="settings" size={28} color={color} />
           ),
         }}
       />

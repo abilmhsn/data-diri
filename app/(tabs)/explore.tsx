@@ -7,7 +7,7 @@ const ThemedText: React.FC<any> = (props) => {
   const { type, ...rest } = props as any; // strip custom 'type' prop used in your code
   return <Text {...rest} />;
 };
-import { IconSymbol } from '@/components/ui/icon-symbol';
+
 import { Colors } from '@/constants/theme';
 
 // type Feather name untuk menghindari TS error "string not assignable"
